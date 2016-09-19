@@ -1,0 +1,2 @@
+This is a hallow world bot. Firstly you have to add this bot to your skype contact list. 
+Once you have added it then you can send a text message to this bot & it will resend a greeting message back to you
