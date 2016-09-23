@@ -2,7 +2,7 @@
   "name": "hallow_world_bot",
   "version": "1.0.0",
   "description": "this bot will display hallow world",
-  "main": "hallow_world_bot.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
