@@ -2,11 +2,11 @@
   "name": "hallow_world_bot",
   "version": "1.0.0",
   "description": "this bot will display hallow world",
-  "main": "index.js",
+  "main": "hallow_world_bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Aniruddha Mandan",
   "license": "ISC",
   "dependencies": {
     "botbuilder": "^3.2.3",
