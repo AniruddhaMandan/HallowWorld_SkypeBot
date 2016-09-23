@@ -1,17 +1,32 @@
 {
   "name": "hallow_world_bot",
   "version": "1.0.0",
-  "description": "this bot will display hallow world",
-  "main": "app.js",
+  "description": "this bot will return hallow world message",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "server.js",
+    "start": "server.js"
   },
-  "author": "Aniruddha Mandan",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AniruddhaMandan/HallowWorld_SkypeBot.git"
+  },
+  "keywords": [
+    "HallowWorld_SkypeBot"
+  ],
+  "author": "aniruddha mandan",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AniruddhaMandan/HallowWorld_SkypeBot/issues"
+  },
+  "homepage": "https://github.com/AniruddhaMandan/HallowWorld_SkypeBot#readme",
   "dependencies": {
     "botbuilder": "^3.2.3",
-    "express": "^4.10.2",
-    "restify": "^5.0.0-beta-1",
-    "socket.io": "^1.4.8"
-  }
+    "restify": "^4.1.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-zip": "^3.0.2",
+    "minimist": "^1.2.0"
+  }  
 }
