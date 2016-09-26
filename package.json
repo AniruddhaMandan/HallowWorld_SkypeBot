@@ -1,0 +1,27 @@
+{
+  "name": "helloworldskypebot",
+  "version": "1.0.0",
+  "description": "this is a hello world skype bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AniruddhaMandan/HallowWorld_SkypeBot.git"
+  },
+  "keywords": [
+    "helloworldskypebot"
+  ],
+  "author": "aniruddha mandan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AniruddhaMandan/HallowWorld_SkypeBot/issues"
+  },
+  "homepage": "https://github.com/AniruddhaMandan/HallowWorld_SkypeBot#readme",
+  "dependencies": {
+    "botbuilder": "^3.2.3",
+    "restify": "^4.1.1"
+  }
+}
